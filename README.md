@@ -6,11 +6,14 @@
 
 העבודה התבססה על גישת **AI-Augmented Development**, שבה ה־AI שולב כחלק אינטגרלי מקבלת ההחלטות ההנדסיות:
 
-- **Refactoring Strategy:** תכנון מעבר משדה `FullName` יחיד לארכיטקטורה מבוססת שמות מפוצלים (`FirstName`, `LastName`) תוך שמירה על **Data Integrity** וביצוע **Backward Compatibility**.
+- **Refactoring Strategy:**
+-  תכנון מעבר משדה `FullName` יחיד לארכיטקטורה מבוססת שמות מפוצלים (`FirstName`, `LastName`) תוך שמירה על **Data Integrity** וביצוע **Backward Compatibility**.
 
-- **Database Migration Logic:** כתיבת סקריפטים של **Raw SQL** לצורך ביצוע מניפולציה על נתונים היסטוריים בתוך EF Core Migrations, במטרה למנוע **Data Loss**.
+- **Database Migration Logic:**
+-  כתיבת סקריפטים של **Raw SQL** לצורך ביצוע מניפולציה על נתונים היסטוריים בתוך EF Core Migrations, במטרה למנוע **Data Loss**.
 
-- **Prompt Engineering:** שימוש ב־**Copilot Instructions** מוגדרים מראש לאכיפת סטנדרטים של קוד נקי (**Clean Code**), שמירה על **Naming Conventions** והאצת תהליכי הפיתוח.
+- **Prompt Engineering:**
+- שימוש ב־**Copilot Instructions** מוגדרים מראש לאכיפת סטנדרטים של קוד נקי (**Clean Code**), שמירה על **Naming Conventions** והאצת תהליכי הפיתוח.
 
 ---
 
