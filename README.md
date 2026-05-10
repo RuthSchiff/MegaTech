@@ -2,7 +2,7 @@
 
 ##  שימוש בכלי AI 
 
-בפרויקט זה נעשה שימוש מתקדם בכלי בינה מלאכותית (כגון **GitHub Copilot, Gemini, GPT, ClaudAI**:אשר שימשו כ־**Senior Architectural Partner** לאורך כל שלבי הפיתוח.
+בפרויקט זה נעשה שימוש מתקדם בכלי בינה מלאכותית כגון: **GitHub Copilot, Gemini, GPT, ClaudAI** אשר שימשו כ־**Senior Architectural Partner** לאורך כל שלבי הפיתוח.
 
 העבודה התבססה על גישת **AI-Augmented Development**, שבה ה־AI שולב כחלק אינטגרלי מקבלת ההחלטות ההנדסיות:
 
